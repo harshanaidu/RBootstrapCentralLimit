@@ -1,0 +1,3 @@
+This demonstrates the central limit theorem for effects of bootstrapping on randomized samples of both normal and exponentially distributed data on sample sizes of 100 and 1000.The mean of the original random sample data and the mean of the bootstrapped data are practically equal. The original data is treated as though it were the population, the bootstrap sample means are close to the original data.
+In the histograms, the bootstrap data is also more normally distributed than the original data. This is most obvious for exponentially distributed samples
+Also, The standard deviation improves with implementation of the Central Limit Theorem, the bootstrap SD is lesser than the original SD
